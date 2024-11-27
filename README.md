@@ -1,6 +1,6 @@
 # Trabalho Final de Otimização Não Linear
 
-Este repositório contém o trabalho final da disciplina COS360 - Otimização Não Linear, realizado na Universidade Federal do Rio de Janeiro (UFRJ). O trabalho aborda métodos de descida com busca de Armijo, incluindo o Método do Gradiente, Método de Newton e Quase-Newton (BFGS).
+Este repositório contém o trabalho final da disciplina COS360 - Otimização, realizado na Universidade Federal do Rio de Janeiro (UFRJ). O trabalho aborda métodos de descida com busca de Armijo, incluindo o Método do Gradiente, Método de Newton e Quase-Newton (BFGS).
 
 ## Estrutura do Repositório
 

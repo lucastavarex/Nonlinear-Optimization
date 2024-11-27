@@ -14,9 +14,7 @@ Este repositório contém o trabalho final da disciplina COS360 - Otimização, 
 2. **Método de Newton com Busca de Armijo**
 3. **Método Quase-Newton (BFGS) com Busca de Armijo**
 
-### Funções Testadas
-
-### Funções Utilizadas
+### Funções Estudadas
 
 1. **Função 1**  
    \[
